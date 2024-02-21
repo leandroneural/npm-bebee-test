@@ -1,0 +1,16 @@
+{
+  "name": "bebee-test-create",
+  "version": "1.0.0",
+  "description": "[![N|Solid](https://neuralbrain.nyc3.digitaloceanspaces.com/general/logo_bebee.png)](https://www.bebee.com.br)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "git+https://github.com/leandroneural/npm-bebee-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
